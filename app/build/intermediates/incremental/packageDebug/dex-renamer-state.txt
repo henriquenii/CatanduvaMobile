@@ -1,0 +1,7 @@
+#Fri Nov 18 18:06:14 BRST 2016
+base.0=/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2335d2ce538f20c49d2536ec7ca55e8c06d6d645
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c59246d0b9f63af2d9d454ebb9dba6d384a84187/classes.dex
+base.1=/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c59246d0b9f63af2d9d454ebb9dba6d384a84187
+file.0=/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2335d2ce538f20c49d2536ec7ca55e8c06d6d645/classes.dex

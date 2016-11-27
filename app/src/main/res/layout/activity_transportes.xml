@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_transportes"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_catanduva"
+    tools:context="com.example.catanduvamobile.catanduvamobile.ActivityTransportes">
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:id="@+id/btVoltar"
+        android:background="@drawable/botao_voltar"
+        android:onClick="startMainActivity"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/público"
+        android:background="@drawable/onibus"
+        android:onClick="startActivityOnibusUrbano"
+        android:layout_above="@+id/moto_taxi"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/moto_taxi"
+        android:background="@drawable/moto_taxi"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@+id/taxi"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/taxi"
+        android:background="@drawable/taxi"
+        android:layout_above="@+id/btVoltar"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="MENU\nTRANSPORTES"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/texto_menu_transportes"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textSize="22sp"
+        android:fontFamily="casual"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="13dp" />
+
+
+</RelativeLayout>

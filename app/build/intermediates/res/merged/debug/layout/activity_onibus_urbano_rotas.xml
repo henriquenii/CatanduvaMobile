@@ -1,0 +1,241 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_catanduva">
+
+
+    <ScrollView
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="320dp"
+        android:scrollbarStyle="insideOverlay"
+    style="@android:style/Widget.Holo.Light.ScrollView"
+    app:layout_collapseMode="pin"
+    app:layout_collapseParallaxMultiplier="0.5"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="30dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_catanduva">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3"
+            android:background="@drawable/onibus_amendola_agudoromao_clubedecampo"
+            android:onClick="startActivityOnibusUrbanoRotasAmendolaAgudoromaoClubedecampo"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button8"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button9"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/onibus_flamingo"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button9"
+            android:layout_alignStart="@+id/button9"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button10"
+            android:background="@drawable/onibus_gabrielhernandes"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button5"
+            android:background="@drawable/onibus_amendola_agudoromao_clubedecampo_fafica"
+            android:layout_below="@+id/button3"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button6"
+            android:background="@drawable/onibus_amendola_agudoromao_jardimdoscoqueiros"
+            android:layout_below="@+id/button5"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button7"
+            android:background="@drawable/onibus_euclides_solo"
+            android:layout_below="@+id/button6"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button11"
+            android:background="@drawable/onibus_gabrielhernandes_viadistritoindustrial_pedroboso"
+            android:layout_below="@+id/button10"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button12"
+            android:background="@drawable/onibus_jardimalpino"
+            android:layout_below="@+id/button11"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button13"
+            android:background="@drawable/onibus_jardimalpino_fafica"
+            android:layout_below="@+id/button12"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button13"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button14"
+            android:background="@drawable/onibus_juliattidecarvalho"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button14"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button15"
+            android:background="@drawable/onibus_km10"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button15"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button16"
+            android:background="@drawable/onibus_km10_fafica"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button16"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button17"
+            android:background="@drawable/onibus_noble"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button17"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button18"
+            android:background="@drawable/onibus_nossoteto_vertoni"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button18"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button19"
+            android:background="@drawable/onibus_pacha"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button19"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button20"
+            android:background="@drawable/onibus_salles_theodoro"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button20"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button21"
+            android:background="@drawable/onibus_tarraf"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button21"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button22"
+            android:background="@drawable/onibus_vilacelso"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button22"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/button23"
+            android:background="@drawable/onibus_vilaengracia"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/button8"
+            android:background="@drawable/onibus_fipa_faculdadedemedicina"
+            android:layout_below="@+id/button7"
+            android:layout_alignParentStart="true" />
+
+
+    </RelativeLayout>
+</ScrollView>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:id="@+id/button27"
+        android:background="@drawable/botao_voltar"
+        android:layout_marginStart="12dp"
+        android:onClick="startActivityOnibusUrbano"
+        android:layout_alignTop="@+id/button28"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:id="@+id/button28"
+        android:background="@drawable/botao_voltar_ao_menu_principal"
+        android:onClick="startMainActivity"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:id="@+id/textView"
+        android:text="MENU\nROTA\nÔNIBUS"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textSize="22sp"
+        android:fontFamily="casual"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="29dp" />
+</RelativeLayout>

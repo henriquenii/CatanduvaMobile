@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_vilaengracia.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_vilaengracia.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_amendola_agudoromao_clubedecampo_fafica.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_amendola_agudoromao_clubedecampo_fafica.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_flamingo.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_flamingo.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_km10_fafica.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_km10_fafica.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_compras.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_compras.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_vilacelso.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_vilacelso.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_jardimalpino.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_jardimalpino.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_transportes.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_transportes.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_salles_theodoro.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_salles_theodoro.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_entretenimento.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_entretenimento.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_juliattidecarvalho.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_juliattidecarvalho.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/rotas_onibus.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/rotas_onibus.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/ic_collapse.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/ic_collapse.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_financeiro.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_financeiro.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_km10.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_km10.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_esporteelazer.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_esporteelazer.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_close_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/taxi.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/taxi.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/botao_voltar_ao_menu_principal.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/botao_voltar_ao_menu_principal.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_alimentacao.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_alimentacao.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_audiotrack_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/moto_taxi.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/moto_taxi.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_gabrielhernandes.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_gabrielhernandes.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/terminal_urbano.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/terminal_urbano.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_amendola_agudoromao_jardimdoscoqueiros.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_amendola_agudoromao_jardimdoscoqueiros.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_gabrielhernandes_viadistritoindustrial_pedroboso.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_gabrielhernandes_viadistritoindustrial_pedroboso.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/ic_expand.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/main_catanduva.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/main_catanduva.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_amendola_agudoromao_clubedecampo.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_amendola_agudoromao_clubedecampo.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_hospedagem.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_hospedagem.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_tarraf.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_tarraf.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_nossoteto_vertoni.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_nossoteto_vertoni.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_euclides_solo.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_euclides_solo.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_utilidadepublica.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_utilidadepublica.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_jardimalpino_fafica.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_jardimalpino_fafica.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_noble.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_noble.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_pacha.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_pacha.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/onibus_fipa_faculdadedemedicina.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/onibus_fipa_faculdadedemedicina.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/botao_voltar.jpg",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/botao_voltar.jpg"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/imagem_terminal_urbano.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/imagem_terminal_urbano.png"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/primeira_tela.jpg",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/primeira_tela.jpg"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/build/intermediates/res/merged/debug/drawable/icone_saude.png",
+        "source": "/home/henrique/AndroidStudioProjects/CatanduvaMobile/app/src/main/res/drawable/icone_saude.png"
+    }
+]

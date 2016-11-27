@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Catanduva Mobile</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_onibus_urbano_rotas">Rotas</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling_onibus_urbano">ScrollingActivityOnibusUrbano</string>
+    <string name="amendola_agudoromao_clubedecampo">
+        TERMINAL\n
+RUA PARÁ\n
+RUA MANAUS\n
+RUA MARANHÃO\n
+RUA CEDRAL\n
+RUA SÃO JOÃO DA BOA VISTA\n
+RUA POTIRENDABA\n
+AV. DEP. ORLANDO ZANCANER\n
+AV. PEDRO BERÇA\n
+RUA JOÃO VALZACHI\n
+AV PROF GERALDO CORRÊA\n
+RUA DRA ANIZ BUCHALLA\n
+RUA JOÃO MARTON\n
+RUA AMADOR LONGHINI\n
+ROD. WASHIGNTON LUIS (RETORNO)\n
+ROD.CESÁRIO JOSÉ DE CASTILHO\n
+ROTATÓRIA CLUBE DE CAMPO\n
+ROD.CESÁRIO JOSÉ DE CASTILHO\n
+AV. ANTÔNIO STOCCO\n
+RUA ANUAR PACHÁ\n
+RUA MARTINÓPOLIS\n
+RUA BOCAINA\n
+RUA GUARULHOS\n
+RUA MOGI DAS CRUZES\n
+RUA 24 DE FEVEREIRO\n
+AV. SÃO DOMINGOS\n
+RUA BRASIL\n
+TERMINAL\n\n\n
+        Fonte: www.catanduvasp.com.br
+    </string>
+</resources>
